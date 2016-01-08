@@ -1,4 +1,4 @@
-"The classic Hello World program"
+"The classic Climbing Lhotse program"
 shared void hello(String name = "Lhotse") {
     print("Climbing, `` name ``!");
 }
