@@ -1,6 +1,6 @@
 "The classic Hello World program"
-shared void hello(String name = "World") {
-    print("Hello, `` name ``!");
+shared void hello(String name = "Lhotse") {
+    print("Climbing, `` name ``!");
 }
 
 "Run the module `com.lhotse.pictures`." 
